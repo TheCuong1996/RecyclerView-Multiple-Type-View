@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">RecyclerView-Multiple-Type-View</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="order">Đặt món</string>
+    <string name="menu">Menu</string>
+    <string name="profile">Cá nhân</string>
+    <string name="setting">Cài đặt</string>
+    <string name="near">Gần đây</string>
+    <string name="good_price">Giá tốt</string>
+    <string name="recommend">Gợi ý</string>
+    <string name="for_you">Dành cho bạn</string>
+    <string name="all">Tất cả</string>
 </resources>
